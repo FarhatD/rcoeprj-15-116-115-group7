@@ -26,7 +26,7 @@ Please follow the below steps to run this project.
 ### Platform, Libraries and Frameworks used
 1. [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 2. [Python] Platform
-3. Keras []
+3. [Keras]
 
 
 ### Dataset Used
